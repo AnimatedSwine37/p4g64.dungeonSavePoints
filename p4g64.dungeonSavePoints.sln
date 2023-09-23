@@ -5,6 +5,10 @@ VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p4g64.dungeonSavePoints", "p4g64.dungeonSavePoints.csproj", "{696AD62B-516D-4FB7-9866-B442FA1CAE93}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BF.File.Emulator.Interfaces", "Submodules\FileEmulationFramework\Emulator\Interfaces\BF.File.Emulator.Interfaces\BF.File.Emulator.Interfaces.csproj", "{64ED8352-3894-4484-9148-2B702D763A4B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileEmulationFramework.Lib", "Submodules\FileEmulationFramework\FileEmulationFramework.Lib\FileEmulationFramework.Lib.csproj", "{1E277326-7A69-4229-97E6-10751F08A058}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{696AD62B-516D-4FB7-9866-B442FA1CAE93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{696AD62B-516D-4FB7-9866-B442FA1CAE93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{696AD62B-516D-4FB7-9866-B442FA1CAE93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64ED8352-3894-4484-9148-2B702D763A4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64ED8352-3894-4484-9148-2B702D763A4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64ED8352-3894-4484-9148-2B702D763A4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64ED8352-3894-4484-9148-2B702D763A4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E277326-7A69-4229-97E6-10751F08A058}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E277326-7A69-4229-97E6-10751F08A058}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E277326-7A69-4229-97E6-10751F08A058}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E277326-7A69-4229-97E6-10751F08A058}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

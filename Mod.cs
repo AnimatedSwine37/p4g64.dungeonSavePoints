@@ -1,4 +1,5 @@
-﻿using p4g64.dungeonSavePoints.Configuration;
+﻿using BF.File.Emulator.Interfaces;
+using p4g64.dungeonSavePoints.Configuration;
 using p4g64.dungeonSavePoints.NuGet.templates.defaultPlus;
 using p4g64.dungeonSavePoints.Template;
 using Reloaded.Hooks.ReloadedII.Interfaces;
