@@ -3,7 +3,7 @@
   "ModName": "Dungeon Save Points",
   "ModAuthor": "AnimatedSwine37",
   "ModVersion": "1.0.0",
-  "ModDescription": "Adds save points back to the final floor of every dungeon (except the Hollow Forest) like they were in Persona 4.",
+  "ModDescription": "Adds save points back to the final floor of every dungeon like they were in Persona 4.",
   "ModDll": "p4g64.dungeonSavePoints.dll",
   "ModIcon": "Preview.png",
   "ModR2RManagedDll32": "x86/p4g64.dungeonSavePoints.dll",
