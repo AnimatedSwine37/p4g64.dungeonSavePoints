@@ -2,7 +2,7 @@
   "ModId": "p4g64.dungeonSavePoints",
   "ModName": "Dungeon Save Points",
   "ModAuthor": "AnimatedSwine37",
-  "ModVersion": "1.0.0",
+  "ModVersion": "1.0.1",
   "ModDescription": "Adds save points back to the final floor of every dungeon like they were in Persona 4.",
   "ModDll": "p4g64.dungeonSavePoints.dll",
   "ModIcon": "Preview.png",
